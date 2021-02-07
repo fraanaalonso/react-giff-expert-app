@@ -1,6 +1,6 @@
 # Getting Started 
 
-You can check out the app by clicking on the following link: https://github.com/fraanaalonso/react-giff-expert-app
+You can check out the app by clicking on the following link: https://fraanaalonso.github.io/react-giff-expert-app/
 
 ## Available Scripts
 
