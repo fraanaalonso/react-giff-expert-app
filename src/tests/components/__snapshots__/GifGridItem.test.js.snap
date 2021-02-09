@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test GifGridItem component Must show a snapshot  1`] = `
+<div
+  className="card animate__fadeIn"
+>
+  <img />
+  <p />
+</div>
+`;
+
+exports[`Test GifGridItem component Must show title and url 1`] = `
+<div
+  className="card animate__fadeIn"
+>
+  <img
+    alt="Un titulo"
+    src="https://localhost/algo.jpg"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
