@@ -28,6 +28,13 @@ exports[`Test GifGrid Must show items when getting images 1`] = `
   </p>
   <div
     className="card-grid"
-  />
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="Una cosa"
+      url="https://localhost/cosa.png"
+    />
+  </div>
 </Fragment>
 `;
